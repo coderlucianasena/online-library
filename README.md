@@ -28,7 +28,8 @@ Para configurar o projeto localmente, siga os passos abaixo:
    git clone https://github.com/coderlucianasena/online-library.git
    cd online-library 
 
-## Instalação das Dependências
+
+## **Instalação das Dependências**
 
 ### Backend:
 
@@ -37,7 +38,7 @@ Navegue até o diretório do backend e instale as dependências necessárias:
 ```bash
 cd online-library
 npm install
-
+```
 ### Frontend:
 
 Navegue até o diretório do frontend e instale as dependências:
@@ -45,7 +46,7 @@ Navegue até o diretório do frontend e instale as dependências:
 ```bash
 cd frontend
 npm install
-
+```
 ## Execução do Projeto
 
 ### Iniciar os Servidores
@@ -57,7 +58,7 @@ Para iniciar o servidor backend, execute os seguintes comandos:
 ```bash
 cd online-library
 node server.js
-
+```
 #### Servidor Frontend:
 
 Para iniciar o servidor frontend, execute os seguintes comandos:
@@ -65,7 +66,7 @@ Para iniciar o servidor frontend, execute os seguintes comandos:
 ```bash
 cd frontend
 ng serve
-
+```
 ### Acessar a Aplicação
 
 Após iniciar ambos os servidores, abra o navegador e acesse a aplicação através do seguinte endereço:
